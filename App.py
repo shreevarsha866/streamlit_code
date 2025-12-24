@@ -82,7 +82,7 @@ elif page == "User Form":
 elif page == "About App":
     st.title("ℹ️ About This Application")
     st.write("""
-    **Data Explorer Dashboard** is a demo web application built using Streamlit.
+    **Data Explorer Dashboard** is use to see multiple data and dataframe from the user.
 
     ### Features:
     - Sidebar navigation
@@ -90,7 +90,7 @@ elif page == "About App":
     - Interactive charts
     - User input forms
 
-    This project is ideal for **data science beginners** to learn web app development.
+   
     """)
 
     st.markdown("🚀 Future scope: ML models, predictions, database integration")
